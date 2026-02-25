@@ -1,0 +1,25 @@
+                                      STATISTICS
+
+==> Data = Any info we have is data. Collection of info based on numbers,observations,mesurement which can be utilized with calculations is data
+    data  can be of two types categorical and numerical
+==> categorical = qualitative->
+=> Binomial data = yes no / true and false that have only 2 categories
+=> Nominal unordered, red ,green
+=>ordinal 
+==> numerical  = quantitative->
+1. continues    2.  discrete                    
+- interval
+-  ratio
+  Absolute zero
+
+==> Crude dataset => The crude dataset is foundation of data science and it may be of different types structured (tabular) or unstructured(non -tabular) and semi -structured
+=> structured -> organized, formatted and understandabel by machine language eg sql
+=>unstructured -> unorganized , unformatted, cannot be analyzed and cannot be processed by conventional methods eg NoSql
+[10,20,30,25,20] = 105/5 = 21
+=> Mean = Mean is sensitive to outliers 
+=> Median = odd = n/2 , even = ((n)th + (n+1)th)/2
+=> Mode = frequency 
+=>range = max - min
+=> Hypothesis Testing-> Null hypothesis -> sample data 70 theb claim data is also 70
+=> Alternative hypothesis
+=> Pvalue
